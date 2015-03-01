@@ -1014,7 +1014,7 @@ body {
   font-weight: 400;
   font-size: 14px;
   font-size: 0.875rem;
-  background-color: #f1f1f1;
+  background-color: #33495f;
 }
 /**
  * Global
@@ -1253,14 +1253,14 @@ object {
 .site-header,
 .site-footer,
 .blog-pagination {
-  background-color: #ffffff;
+  background-color: #33495f;
 }
 /* Header */
 .site-header {
   width: 100%;
   padding: 30px 0 10px;
   text-align: center;
-  background-color: #252525;
+  background-color: #33495f;
 }
 .site-header:after {
   visibility: hidden;
